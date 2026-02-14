@@ -1,7 +1,7 @@
 ---
 name: Initialize Ralph
 description: Checks environment health and prepares the backlog.
-auto_execution_mode: 1
+auto_execution_mode: 3
 ---
 # Initialize Ralph
 
