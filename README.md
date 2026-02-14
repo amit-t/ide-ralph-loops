@@ -81,6 +81,4 @@ Both produce the same outcome — use whichever fits your preference.
 - Based on the [Ralph workflow by Ghuntley](https://ghuntley.com/ralph/)
 - Reddit discussion: <https://www.reddit.com/r/windsurf/comments/1q6y2jz/ralph_wiggum_agent_for_windsurf>
 
-> [!NOTE]
-> I made this for my own use, but PRs are welcome!
 
